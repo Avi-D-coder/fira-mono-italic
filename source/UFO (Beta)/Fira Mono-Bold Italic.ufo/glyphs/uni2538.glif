@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2538" format="1">
+  <advance width="600"/>
+  <unicode hex="2538"/>
+  <outline>
+	<contour>
+	  <point x="283" y="1000" type="line"/>
+	  <point x="197" y="390" type="line"/>
+	  <point x="12" y="390" type="line"/>
+	  <point x="1" y="310" type="line"/>
+	  <point x="611" y="310" type="line"/>
+	  <point x="622" y="390" type="line"/>
+	  <point x="437" y="390" type="line"/>
+	  <point x="523" y="1000" type="line"/>
+	</contour>
+  </outline>
+  <lib>
+	<dict>
+	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+	  <integer>4</integer>
+	  <key>public.markColor</key>
+	  <string>0.67,0.95,0.38,1</string>
+	</dict>
+  </lib>
+</glyph>

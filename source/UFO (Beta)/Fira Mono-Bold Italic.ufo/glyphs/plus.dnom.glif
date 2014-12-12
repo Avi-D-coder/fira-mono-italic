@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus.dnom" format="1">
+  <advance width="600"/>
+  <outline>
+	<contour>
+	  <point x="252" y="287" type="line"/>
+	  <point x="241" y="207" type="line"/>
+	  <point x="162" y="207" type="line"/>
+	  <point x="150" y="124" type="line"/>
+	  <point x="229" y="124" type="line"/>
+	  <point x="218" y="46" type="line"/>
+	  <point x="320" y="46" type="line"/>
+	  <point x="331" y="124" type="line"/>
+	  <point x="410" y="124" type="line"/>
+	  <point x="422" y="207" type="line"/>
+	  <point x="343" y="207" type="line"/>
+	  <point x="354" y="287" type="line"/>
+	</contour>
+  </outline>
+  <lib>
+	<dict>
+	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+	  <integer>4</integer>
+	  <key>public.markColor</key>
+	  <string>0.67,0.95,0.38,1</string>
+	</dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar" format="1">
+  <advance width="600"/>
+  <unicode hex="0167"/>
+  <outline>
+	<contour>
+	  <point x="210" y="353" type="line"/>
+	  <point x="101" y="353" type="line"/>
+	  <point x="91" y="285" type="line"/>
+	  <point x="292" y="285" type="line"/>
+	  <point x="463" y="285" type="line"/>
+	  <point x="473" y="353" type="line"/>
+	</contour>
+	<component base="t" xOffset="-37"/>
+  </outline>
+  <lib>
+	<dict>
+	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+	  <integer>3</integer>
+	  <key>public.markColor</key>
+	  <string>0.97,1,0,1</string>
+	</dict>
+  </lib>
+</glyph>

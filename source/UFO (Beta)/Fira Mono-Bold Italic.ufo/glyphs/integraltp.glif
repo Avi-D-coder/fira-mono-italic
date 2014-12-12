@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="integraltp" format="1">
+  <advance width="600"/>
+  <unicode hex="2320"/>
+  <outline>
+	<contour>
+	  <point x="361" y="862"/>
+	  <point x="297" y="793"/>
+	  <point x="280" y="672" type="curve"/>
+	  <point x="115" y="-500" type="line"/>
+	  <point x="273" y="-500" type="line"/>
+	  <point x="438" y="670" type="line"/>
+	  <point x="445" y="719"/>
+	  <point x="467" y="745"/>
+	  <point x="510" y="745" type="curve" smooth="yes"/>
+	  <point x="532" y="745"/>
+	  <point x="558" y="741"/>
+	  <point x="588" y="727" type="curve"/>
+	  <point x="640" y="827" type="line"/>
+	  <point x="600" y="846"/>
+	  <point x="555" y="862"/>
+	  <point x="489" y="862" type="curve" smooth="yes"/>
+	</contour>
+  </outline>
+  <lib>
+	<dict>
+	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+	  <integer>4</integer>
+	  <key>public.markColor</key>
+	  <string>0.67,0.95,0.38,1</string>
+	</dict>
+  </lib>
+</glyph>

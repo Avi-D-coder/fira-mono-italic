@@ -38,6 +38,11 @@ Fira font weights:
 
 --------------------
 
+### Version/Build 3.111 @zwaldowski mod (unofficial)
+
+- synthesized mono italic variants
+
+
 ### Version/Build 3.111
 
 - TTFautohint via Glyphs 2 developer Beta GUI for TTF export

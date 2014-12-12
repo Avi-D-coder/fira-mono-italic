@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni25DD" format="1">
+  <advance width="600"/>
+  <unicode hex="25DD"/>
+  <outline>
+	<contour>
+	  <point x="330" y="460" type="line"/>
+	  <point x="434" y="460"/>
+	  <point x="506" y="377"/>
+	  <point x="491" y="273" type="curve"/>
+	  <point x="570" y="267" type="line"/>
+	  <point x="591" y="416"/>
+	  <point x="486" y="540"/>
+	  <point x="337" y="540" type="curve"/>
+	</contour>
+  </outline>
+  <lib>
+	<dict>
+	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+	  <integer>4</integer>
+	  <key>public.markColor</key>
+	  <string>0.67,0.95,0.38,1</string>
+	</dict>
+  </lib>
+</glyph>

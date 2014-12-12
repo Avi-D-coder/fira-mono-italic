@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="whiteSquareWithUpperLeftQuadrant" format="1">
+  <advance width="600"/>
+  <unicode hex="25F0"/>
+  <outline>
+	<contour>
+	  <point x="69" y="540" type="line"/>
+	  <point x="-7" y="0" type="line"/>
+	  <point x="533" y="0" type="line"/>
+	  <point x="609" y="540" type="line"/>
+	</contour>
+	<contour>
+	  <point x="464" y="80" type="line"/>
+	  <point x="84" y="80" type="line"/>
+	  <point x="105" y="230" type="line"/>
+	  <point x="335" y="230" type="line"/>
+	  <point x="367" y="460" type="line"/>
+	  <point x="517" y="460" type="line"/>
+	</contour>
+	<contour>
+	  <point x="266" y="310" type="line"/>
+	  <point x="116" y="310" type="line"/>
+	  <point x="137" y="460" type="line"/>
+	  <point x="287" y="460" type="line"/>
+	</contour>
+  </outline>
+  <lib>
+	<dict>
+	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+	  <integer>4</integer>
+	  <key>public.markColor</key>
+	  <string>0.67,0.95,0.38,1</string>
+	</dict>
+  </lib>
+</glyph>

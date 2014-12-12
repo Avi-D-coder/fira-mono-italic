@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright.dnom" format="1">
+  <advance width="600"/>
+  <outline>
+	<contour>
+	  <point x="277" y="60"/>
+	  <point x="245" y="10"/>
+	  <point x="179" y="-73" type="curve"/>
+	  <point x="225" y="-107" type="line"/>
+	  <point x="298" y="-27"/>
+	  <point x="350" y="37"/>
+	  <point x="367" y="156" type="curve" smooth="yes"/>
+	  <point x="384" y="280"/>
+	  <point x="349" y="346"/>
+	  <point x="297" y="426" type="curve"/>
+	  <point x="247" y="400" type="line"/>
+	  <point x="291" y="317"/>
+	  <point x="307" y="269"/>
+	  <point x="292" y="166" type="curve" smooth="yes"/>
+	</contour>
+  </outline>
+  <lib>
+	<dict>
+	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+	  <integer>4</integer>
+	  <key>public.markColor</key>
+	  <string>0.67,0.95,0.38,1</string>
+	</dict>
+  </lib>
+</glyph>

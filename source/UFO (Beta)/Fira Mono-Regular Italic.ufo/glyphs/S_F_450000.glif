@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SF450000" format="1">
+  <advance width="600"/>
+  <unicode hex="2567"/>
+  <outline>
+	<contour>
+	  <point x="364" y="1000" type="line"/>
+	  <point x="289" y="470" type="line"/>
+	  <point x="24" y="470" type="line"/>
+	  <point x="13" y="390" type="line"/>
+	  <point x="623" y="390" type="line"/>
+	  <point x="634" y="470" type="line"/>
+	  <point x="369" y="470" type="line"/>
+	  <point x="444" y="1000" type="line"/>
+	</contour>
+	<contour>
+	  <point x="2" y="310" type="line"/>
+	  <point x="-10" y="230" type="line"/>
+	  <point x="600" y="230" type="line"/>
+	  <point x="612" y="310" type="line"/>
+	</contour>
+  </outline>
+  <lib>
+	<dict>
+	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+	  <integer>4</integer>
+	  <key>public.markColor</key>
+	  <string>0.67,0.95,0.38,1</string>
+	</dict>
+  </lib>
+</glyph>

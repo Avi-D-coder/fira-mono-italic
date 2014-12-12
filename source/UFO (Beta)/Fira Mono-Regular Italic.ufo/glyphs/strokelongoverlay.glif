@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokelongoverlay" format="1">
+  <advance width="600"/>
+  <unicode hex="0336"/>
+  <outline>
+	<contour>
+	  <point x="639" y="348" type="line"/>
+	  <point x="-14" y="348" type="line"/>
+	  <point x="-24" y="278" type="line"/>
+	  <point x="629" y="278" type="line"/>
+	</contour>
+  </outline>
+</glyph>
