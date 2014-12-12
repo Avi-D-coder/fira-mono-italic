@@ -38,13 +38,59 @@ Fira font weights:
 
 --------------------
 
-### Version/Build 3.106-lhmod *(unofficial)*
+### Version/Build 3.111
 
-- Correct Mono line-height on OS X
+- TTFautohint via Glyphs 2 developer Beta GUI for TTF export
+- fixed zero width glyphs with no zero value in Italic
+   * PDFs stay version 3110, just renamed the zip-folder
+
+
+### Version/Build 3.110
+
+- fixed TTF/WOFF/EOT in Mono export error caused by database divergence Glyphs2 Beta
+- fixed interpolation glitches coming with new behavior of anchors in Glyphs2 Beta
+- fixed zero width glyphs with no zero value in Mono
+- legibility improvement for code applications: braces, brackets and parens in Mono
+
+
+### Version/Build 3.109
+
+- mozilla/Fira#43
+   * impossible to get equal values for all OS issues with common methods.
+- catch:
+   * set typoLineGap to 400 (was 200)
+   * set winDescender to -350 (was -500)
+- **Known bug**: cuts of lowest glyphs (-353 Ultra)
+   * Arabic (should not become lower)
+   * Vietnamese (should not become higher)
+
+
+### Version/Build 3.108
+
+- NEW Mono Medium weight
+- added style linking for all weights and styles
+- panose information for single weights
+- Italic: uni0414 De-cyr in upright shape – commissioned by mozilla, but handwritten shape will come back with Bulgarian and Serbian localized feature in 3.2 :wink:
+- zip-archives without Mac-Resources
+
+### Version/Build 3.107
+
+- **line spacing**
+- added “Use Typo Metrics” to sfSelection in OS/2 table
+   * OS/2 table and bbox size are equal to Fira 1.4 and 2.1
+   * If you have any issues with increased linespacing, make sure your render engine and/or software application DOES read the OS/2 table based information and/or the bbox size.
+- panose information added to OS/2 table
+- uni0400 & uni0450 (small & capital/sc cyrillic i with grave – Bulgarian/Macedonian)
+- uni040D & uni045D (small & capital/sc cyrillic i with grave – Bulgarian/Macedonian)
+- Mono: now set as isFixedPitch
+- Mono: asterisk * uni002A now on x-height and a little bit larger
+- fixed interpolation glitches
+- New grid export parameters for Two, Four, Eight and Hair
+- UFO source files instead of Glyphs-files
 
 ### Version/Build 3.106
 
-- aogonec uni0105 nicer connection
+- aogonec uni0105 (`>`) nicer connection
 - outline corrections concerning some interpolation glitches
 - web font formats added (beta version only)
 
