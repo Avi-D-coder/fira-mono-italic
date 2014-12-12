@@ -2,15 +2,15 @@
 <glyph name="uni04D3.sc" format="1">
   <advance width="491"/>
   <outline>
-	<component base="a.sc"/>
-	<component base="dieresis.sc" xOffset="173"/>
+    <component base="a.sc"/>
+    <component base="dieresis.sc" xOffset="173"/>
   </outline>
   <lib>
-	<dict>
-	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-	  <integer>7</integer>
-	  <key>public.markColor</key>
-	  <string>0.18,0.16,0.78,1</string>
-	</dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
   </lib>
 </glyph>

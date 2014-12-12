@@ -2,15 +2,15 @@
 <glyph name="i.loclTRK" format="1">
   <advance width="276"/>
   <outline>
-	<component base="dotlessi"/>
-	<component base="dotaccent" xOffset="3"/>
+    <component base="dotlessi"/>
+    <component base="dotaccent" xOffset="3"/>
   </outline>
   <lib>
-	<dict>
-	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-	  <integer>7</integer>
-	  <key>public.markColor</key>
-	  <string>0.18,0.16,0.78,1</string>
-	</dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
   </lib>
 </glyph>

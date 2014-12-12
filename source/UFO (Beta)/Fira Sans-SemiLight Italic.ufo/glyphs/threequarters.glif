@@ -3,16 +3,16 @@
   <advance width="900"/>
   <unicode hex="00BE"/>
   <outline>
-	<component base="three.numr"/>
-	<component base="fraction" xOffset="400"/>
-	<component base="four.dnom" xOffset="500"/>
+    <component base="three.numr"/>
+    <component base="fraction" xOffset="400"/>
+    <component base="four.dnom" xOffset="500"/>
   </outline>
   <lib>
-	<dict>
-	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-	  <integer>7</integer>
-	  <key>public.markColor</key>
-	  <string>0.18,0.16,0.78,1</string>
-	</dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
   </lib>
 </glyph>

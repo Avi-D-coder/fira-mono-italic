@@ -3,14 +3,14 @@
   <advance width="622"/>
   <unicode hex="0392"/>
   <outline>
-	<component base="B"/>
+    <component base="B"/>
   </outline>
   <lib>
-	<dict>
-	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-	  <integer>7</integer>
-	  <key>public.markColor</key>
-	  <string>0.18,0.16,0.78,1</string>
-	</dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
   </lib>
 </glyph>

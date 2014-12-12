@@ -2,15 +2,15 @@
 <glyph name="umacron.sc" format="1">
   <advance width="582"/>
   <outline>
-	<component base="u.sc"/>
-	<component base="macron.sc" xOffset="98" yOffset="1"/>
+    <component base="u.sc"/>
+    <component base="macron.sc" xOffset="98" yOffset="1"/>
   </outline>
   <lib>
-	<dict>
-	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-	  <integer>7</integer>
-	  <key>public.markColor</key>
-	  <string>0.18,0.16,0.78,1</string>
-	</dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
   </lib>
 </glyph>

@@ -3,15 +3,15 @@
   <advance width="468"/>
   <unicode hex="0109"/>
   <outline>
-	<component base="c"/>
-	<component base="circumflex" xOffset="57"/>
+    <component base="c"/>
+    <component base="circumflex" xOffset="57"/>
   </outline>
   <lib>
-	<dict>
-	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-	  <integer>7</integer>
-	  <key>public.markColor</key>
-	  <string>0.18,0.16,0.78,1</string>
-	</dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
   </lib>
 </glyph>
