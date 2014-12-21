@@ -62,7 +62,9 @@
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>A11F629A-ECF3-413E-B2EC-6C6F8C33A243</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
-	<true/>
+	<integer>1</integer>
+	<key>com.schriftgestaltung.weight</key>
+	<string>Light</string>
 	<key>com.schriftgestaltung.weightValue</key>
 	<real>92</real>
 	<key>public.glyphOrder</key>
@@ -255,7 +257,6 @@
 		<string>iogonek</string>
 		<string>itilde</string>
 		<string>j</string>
-		<string>jdotless</string>
 		<string>jcircumflex</string>
 		<string>k</string>
 		<string>kcommaaccent</string>
@@ -1169,7 +1170,6 @@
 		<string>dotmath</string>
 		<string>emptyset</string>
 		<string>equal</string>
-		<string>uni208C</string>
 		<string>equalsuperior</string>
 		<string>greater</string>
 		<string>greaterequal</string>
@@ -1269,21 +1269,14 @@
 		<string>radical.tosf</string>
 		<string>summation.tosf</string>
 		<string>arrowup</string>
-		<string>uni2197</string>
 		<string>arrowright</string>
-		<string>uni2198</string>
 		<string>arrowdown</string>
-		<string>uni2199</string>
 		<string>arrowleft</string>
-		<string>uni2196</string>
-		<string>uni2194</string>
-		<string>arrowupdn</string>
 		<string>arrowupwhite</string>
 		<string>arrowrightwhite</string>
 		<string>arrowdownwhite</string>
 		<string>arrowleftwhite</string>
 		<string>uni2B06</string>
-		<string>uni27A1</string>
 		<string>uni2B07</string>
 		<string>uni2B05</string>
 		<string>lozenge</string>
@@ -1412,6 +1405,15 @@
 		<string>uniE001</string>
 		<string>uniE002</string>
 		<string>uniE003</string>
+		<string>dotlessj</string>
+		<string>equalsinferior</string>
+		<string>arrowupright</string>
+		<string>arrowdownright</string>
+		<string>arrowdownleft</string>
+		<string>arrowupleft</string>
+		<string>arrowboth</string>
+		<string>arrowupdown</string>
+		<string>blackRightArrow</string>
 	</array>
 </dict>
 </plist>

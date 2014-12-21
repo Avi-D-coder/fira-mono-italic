@@ -5,13 +5,13 @@
 	<key>Use Typo Metrics</key>
 	<true/>
 	<key>ascender</key>
-	<integer>739</integer>
+	<integer>785</integer>
 	<key>capHeight</key>
-	<integer>689</integer>
+	<integer>688</integer>
 	<key>copyright</key>
 	<string>Digitized data copyright © 2012-2014, The Mozilla Foundation and Telefonica S.A.</string>
 	<key>descender</key>
-	<integer>-202</integer>
+	<integer>-215</integer>
 	<key>familyName</key>
 	<string>Fira Mono</string>
 	<key>isFixedPitch</key>
@@ -40,14 +40,16 @@
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-14</integer>
+		<integer>-13</integer>
 		<integer>0</integer>
-		<integer>527</integer>
-		<integer>541</integer>
-		<integer>689</integer>
-		<integer>703</integer>
+		<integer>526</integer>
+		<integer>539</integer>
+		<integer>563</integer>
+		<integer>576</integer>
+		<integer>688</integer>
+		<integer>701</integer>
 		<integer>739</integer>
-		<integer>753</integer>
+		<integer>752</integer>
 	</array>
 	<key>postscriptFamilyBlues</key>
 	<array>
@@ -67,16 +69,16 @@
 	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>-216</integer>
-		<integer>-202</integer>
+		<integer>-212</integer>
+		<integer>-199</integer>
 	</array>
 	<key>postscriptStemSnapH</key>
 	<array>
-		<integer>74</integer>
+		<integer>68</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>92</integer>
+		<integer>83</integer>
 	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
@@ -93,6 +95,6 @@
 	<key>versionMinor</key>
 	<integer>111</integer>
 	<key>xHeight</key>
-	<integer>527</integer>
+	<integer>526</integer>
 </dict>
 </plist>

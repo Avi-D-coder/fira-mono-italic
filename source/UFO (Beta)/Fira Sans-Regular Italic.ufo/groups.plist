@@ -909,9 +909,9 @@
 	<key>@MMK_L_j</key>
 	<array>
 		<string>ij</string>
-		<string>dotlessj</string>
 		<string>jcircumflex</string>
 		<string>uni0452</string>
+		<string>dotlessj</string>
 	</array>
 	<key>@MMK_L_j.sc</key>
 	<array>
@@ -2700,9 +2700,9 @@
 	<key>@MMK_R_j</key>
 	<array>
 		<string>j</string>
-		<string>dotlessj</string>
 		<string>jcircumflex</string>
 		<string>uni0458</string>
+		<string>dotlessj</string>
 	</array>
 	<key>@MMK_R_j.sc</key>
 	<array>

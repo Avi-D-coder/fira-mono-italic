@@ -3,17 +3,17 @@
   <advance width="294"/>
   <unicode hex="0406"/>
   <outline>
-    <component base="I"/>
-    <contour>
-      <point x="213" y="689" type="move" name="top"/>
-    </contour>
+	<component base="I"/>
+	<contour>
+	  <point x="213" y="689" type="move" name="top"/>
+	</contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
+	<dict>
+	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+	  <integer>7</integer>
+	  <key>public.markColor</key>
+	  <string>0.18,0.16,0.78,1</string>
+	</dict>
   </lib>
 </glyph>

@@ -11,7 +11,7 @@
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>UUID0</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
-	<true/>
+	<integer>1</integer>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -201,7 +201,6 @@
 		<string>iogonek</string>
 		<string>itilde</string>
 		<string>j</string>
-		<string>jdotless</string>
 		<string>jcircumflex</string>
 		<string>k</string>
 		<string>kcommaaccent</string>
@@ -544,7 +543,6 @@
 		<string>omicron</string>
 		<string>pi</string>
 		<string>rho</string>
-		<string>sigmafinal</string>
 		<string>sigma</string>
 		<string>tau</string>
 		<string>upsilon</string>
@@ -770,7 +768,6 @@
 		<string>divide</string>
 		<string>divisionslash</string>
 		<string>equal</string>
-		<string>uni208C</string>
 		<string>equalsuperior</string>
 		<string>equivalence</string>
 		<string>greater</string>
@@ -830,32 +827,23 @@
 		<string>radical.tosf</string>
 		<string>summation.tosf</string>
 		<string>arrowup</string>
-		<string>uni2197</string>
 		<string>arrowright</string>
-		<string>uni2198</string>
 		<string>arrowdown</string>
-		<string>uni2199</string>
 		<string>arrowleft</string>
-		<string>uni2196</string>
-		<string>uni2194</string>
-		<string>arrowupdn</string>
 		<string>arrowupwhite</string>
 		<string>arrowrightwhite</string>
 		<string>arrowdownwhite</string>
 		<string>arrowleftwhite</string>
 		<string>uni2B06</string>
-		<string>uni27A1</string>
 		<string>uni2B07</string>
 		<string>uni2B05</string>
 		<string>uni2581</string>
 		<string>uni2582</string>
 		<string>uni2583</string>
-		<string>dnblock</string>
 		<string>uni2585</string>
 		<string>uni2586</string>
 		<string>uni2587</string>
 		<string>block</string>
-		<string>upblock</string>
 		<string>uni2594</string>
 		<string>uni258F</string>
 		<string>uni258E</string>
@@ -866,16 +854,6 @@
 		<string>uni2589</string>
 		<string>rtblock</string>
 		<string>uni2595</string>
-		<string>uni2596</string>
-		<string>uni2597</string>
-		<string>uni2598</string>
-		<string>uni2599</string>
-		<string>uni259A</string>
-		<string>uni259B</string>
-		<string>uni259C</string>
-		<string>uni259D</string>
-		<string>uni259E</string>
-		<string>uni259F</string>
 		<string>ltshade</string>
 		<string>shade</string>
 		<string>dkshade</string>
@@ -911,49 +889,8 @@
 		<string>filledrect</string>
 		<string>uni25AD</string>
 		<string>uni25AF</string>
-		<string>uni250C</string>
-		<string>uni2514</string>
-		<string>uni2510</string>
-		<string>uni2518</string>
-		<string>uni253C</string>
-		<string>uni252C</string>
-		<string>uni2534</string>
-		<string>uni251C</string>
-		<string>uni2524</string>
-		<string>uni2500</string>
-		<string>uni2502</string>
-		<string>uni2561</string>
-		<string>uni2562</string>
-		<string>uni2556</string>
-		<string>uni2555</string>
-		<string>uni2563</string>
-		<string>uni2551</string>
-		<string>uni2557</string>
-		<string>uni255D</string>
-		<string>uni255C</string>
-		<string>uni255B</string>
-		<string>uni255E</string>
-		<string>uni255F</string>
-		<string>uni255A</string>
-		<string>uni2554</string>
-		<string>uni2569</string>
-		<string>uni2566</string>
-		<string>uni2560</string>
-		<string>uni2550</string>
-		<string>uni256C</string>
-		<string>uni2567</string>
-		<string>uni2568</string>
-		<string>uni2564</string>
-		<string>uni2565</string>
-		<string>uni2559</string>
-		<string>uni2558</string>
-		<string>uni2552</string>
-		<string>uni2553</string>
-		<string>uni256B</string>
-		<string>uni256A</string>
 		<string>filledbox</string>
 		<string>H22073</string>
-		<string>uni25A2</string>
 		<string>squarewhitewithsmallblack</string>
 		<string>H18543</string>
 		<string>H18551</string>
@@ -962,18 +899,7 @@
 		<string>uni25E9</string>
 		<string>uni25EA</string>
 		<string>uni25EB</string>
-		<string>uni25F0</string>
-		<string>uni25F1</string>
-		<string>uni25F2</string>
-		<string>uni25F3</string>
-		<string>triagup</string>
-		<string>triagdn</string>
-		<string>triagrt</string>
 		<string>triaglf</string>
-		<string>blackupperrighttriangle</string>
-		<string>blacklowerrighttriangle</string>
-		<string>blacklowerlefttriangle</string>
-		<string>blackupperlefttriangle</string>
 		<string>uni2530</string>
 		<string>uni2512</string>
 		<string>uni2527</string>
@@ -1074,7 +1000,6 @@
 		<string>trademark</string>
 		<string>degree</string>
 		<string>estimated</string>
-		<string>uni2113</string>
 		<string>uni2116</string>
 		<string>asciicircum</string>
 		<string>dagger</string>
@@ -1135,8 +1060,6 @@
 		<string>uni030B</string>
 		<string>uni0304</string>
 		<string>uni030A</string>
-		<string>uni0336</string>
-		<string>uni0335</string>
 		<string>tildecomb</string>
 		<string>uni0326.case</string>
 		<string>breve-cy.case</string>
@@ -1158,6 +1081,83 @@
 		<string>uniE001</string>
 		<string>uniE002</string>
 		<string>uniE003</string>
+		<string>dotlessj</string>
+		<string>sigma1</string>
+		<string>equalsinferior</string>
+		<string>arrowupright</string>
+		<string>arrowdownright</string>
+		<string>arrowdownleft</string>
+		<string>arrowupleft</string>
+		<string>arrowboth</string>
+		<string>arrowupdown</string>
+		<string>blackRightArrow</string>
+		<string>downBlock</string>
+		<string>upBlock</string>
+		<string>quadrantLowerLeft</string>
+		<string>quadrantLowerRight</string>
+		<string>quadrantUpperLeft</string>
+		<string>quadrantUpperLeftAndLowerLeftAndLowerRight</string>
+		<string>quadrantUpperLeftAndLowerRight</string>
+		<string>quadrantUpperLeftAndUpperRightAndLowerLeft</string>
+		<string>quadrantUpperLeftAndUpperRightAndLowerRight</string>
+		<string>quadrantUpperRight</string>
+		<string>quadrantUpperRightAndLowerLeft</string>
+		<string>quadrantUpperRightAndLowerLeftAndLowerRight</string>
+		<string>SF010000</string>
+		<string>SF020000</string>
+		<string>SF030000</string>
+		<string>SF040000</string>
+		<string>SF050000</string>
+		<string>SF060000</string>
+		<string>SF070000</string>
+		<string>SF080000</string>
+		<string>SF090000</string>
+		<string>SF100000</string>
+		<string>SF110000</string>
+		<string>SF190000</string>
+		<string>SF200000</string>
+		<string>SF210000</string>
+		<string>SF220000</string>
+		<string>SF230000</string>
+		<string>SF240000</string>
+		<string>SF250000</string>
+		<string>SF260000</string>
+		<string>SF270000</string>
+		<string>SF280000</string>
+		<string>SF360000</string>
+		<string>SF370000</string>
+		<string>SF380000</string>
+		<string>SF390000</string>
+		<string>SF400000</string>
+		<string>SF410000</string>
+		<string>SF420000</string>
+		<string>SF430000</string>
+		<string>SF440000</string>
+		<string>SF450000</string>
+		<string>SF460000</string>
+		<string>SF470000</string>
+		<string>SF480000</string>
+		<string>SF490000</string>
+		<string>SF500000</string>
+		<string>SF510000</string>
+		<string>SF520000</string>
+		<string>SF530000</string>
+		<string>SF540000</string>
+		<string>whiteSquareWithRoundedCorners</string>
+		<string>whiteSquareWithUpperLeftQuadrant</string>
+		<string>whiteSquareWithLowerLeftQuadrant</string>
+		<string>whiteSquareWithLowerRightQuadrant</string>
+		<string>whiteSquareWithUpperRightQuadrant</string>
+		<string>triagupTriangle</string>
+		<string>triangledown</string>
+		<string>triangleright</string>
+		<string>blackUpperRightTriangle</string>
+		<string>blackLowerRightTriangle</string>
+		<string>blackLowerLeftTriangle</string>
+		<string>blackUpperLeftTriangle</string>
+		<string>litre</string>
+		<string>strokelongoverlay</string>
+		<string>strokeshortoverlay</string>
 	</array>
 </dict>
 </plist>

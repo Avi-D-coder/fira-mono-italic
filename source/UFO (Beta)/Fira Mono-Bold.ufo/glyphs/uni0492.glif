@@ -3,22 +3,22 @@
   <advance width="600"/>
   <unicode hex="0492"/>
   <outline>
-    <contour>
-      <point x="114" y="433" type="line"/>
-      <point x="37" y="433" type="line"/>
-      <point x="37" y="334" type="line"/>
-      <point x="280" y="334" type="line"/>
-      <point x="422" y="334" type="line"/>
-      <point x="422" y="433" type="line"/>
-    </contour>
-    <component base="uni0413" xOffset="25"/>
+	<contour>
+	  <point x="114" y="433" type="line"/>
+	  <point x="37" y="433" type="line"/>
+	  <point x="37" y="334" type="line"/>
+	  <point x="280" y="334" type="line"/>
+	  <point x="422" y="334" type="line"/>
+	  <point x="422" y="433" type="line"/>
+	</contour>
+	<component base="uni0413" xOffset="25"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
+	<dict>
+	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+	  <integer>3</integer>
+	  <key>public.markColor</key>
+	  <string>0.97,1,0,1</string>
+	</dict>
   </lib>
 </glyph>

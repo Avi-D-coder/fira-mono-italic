@@ -426,8 +426,14 @@
 	<string>aring.glif</string>
 	<key>aring.sc</key>
 	<string>aring.sc.glif</string>
+	<key>arrowboth</key>
+	<string>arrowboth.glif</string>
 	<key>arrowdown</key>
 	<string>arrowdown.glif</string>
+	<key>arrowdownleft</key>
+	<string>arrowdownleft.glif</string>
+	<key>arrowdownright</key>
+	<string>arrowdownright.glif</string>
 	<key>arrowdownwhite</key>
 	<string>arrowdownwhite.glif</string>
 	<key>arrowleft</key>
@@ -440,8 +446,12 @@
 	<string>arrowrightwhite.glif</string>
 	<key>arrowup</key>
 	<string>arrowup.glif</string>
-	<key>arrowupdn</key>
-	<string>arrowupdn.glif</string>
+	<key>arrowupdown</key>
+	<string>arrowupdown.glif</string>
+	<key>arrowupleft</key>
+	<string>arrowupleft.glif</string>
+	<key>arrowupright</key>
+	<string>arrowupright.glif</string>
 	<key>arrowupwhite</key>
 	<string>arrowupwhite.glif</string>
 	<key>asciicircum</key>
@@ -476,6 +486,8 @@
 	<string>beta.sc.glif</string>
 	<key>beta.ss10</key>
 	<string>beta.ss10.glif</string>
+	<key>blackRightArrow</key>
+	<string>blackR_ightA_rrow.glif</string>
 	<key>braceleft</key>
 	<string>braceleft.glif</string>
 	<key>braceleft.case</key>
@@ -682,6 +694,8 @@
 	<string>dotlessi.glif</string>
 	<key>dotlessi.sc</key>
 	<string>dotlessi.sc.glif</string>
+	<key>dotlessj</key>
+	<string>dotlessj.glif</string>
 	<key>dotlessj.sc</key>
 	<string>dotlessj.sc.glif</string>
 	<key>dotmath</key>
@@ -778,6 +792,8 @@
 	<string>equal.tf.glif</string>
 	<key>equal.tosf</key>
 	<string>equal.tosf.glif</string>
+	<key>equalsinferior</key>
+	<string>equalsinferior.glif</string>
 	<key>equalsuperior</key>
 	<string>equalsuperior.glif</string>
 	<key>estimated</key>
@@ -1044,8 +1060,6 @@
 	<string>jcircumflex.glif</string>
 	<key>jcircumflex.sc</key>
 	<string>jcircumflex.sc.glif</string>
-	<key>jdotless</key>
-	<string>jdotless.glif</string>
 	<key>k</key>
 	<string>k.glif</string>
 	<key>k.sc</key>
@@ -2492,8 +2506,6 @@
 	<string>uni208A_.glif</string>
 	<key>uni208B</key>
 	<string>uni208B_.glif</string>
-	<key>uni208C</key>
-	<string>uni208C_.glif</string>
 	<key>uni208D</key>
 	<string>uni208D_.glif</string>
 	<key>uni208E</key>
@@ -2516,16 +2528,6 @@
 	<string>uni2159.glif</string>
 	<key>uni215A</key>
 	<string>uni215A_.glif</string>
-	<key>uni2194</key>
-	<string>uni2194.glif</string>
-	<key>uni2196</key>
-	<string>uni2196.glif</string>
-	<key>uni2197</key>
-	<string>uni2197.glif</string>
-	<key>uni2198</key>
-	<string>uni2198.glif</string>
-	<key>uni2199</key>
-	<string>uni2199.glif</string>
 	<key>uni2328</key>
 	<string>uni2328.glif</string>
 	<key>uni232B</key>
@@ -2534,8 +2536,6 @@
 	<string>uni23C_E_.glif</string>
 	<key>uni25AF</key>
 	<string>uni25A_F_.glif</string>
-	<key>uni27A1</key>
-	<string>uni27A_1.glif</string>
 	<key>uni2B05</key>
 	<string>uni2B_05.glif</string>
 	<key>uni2B06</key>
