@@ -34,8 +34,10 @@
 	<string>http://www.carrois.com</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Fira Mono</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Bold Italic</string>
+	<key>openTypeNameUniqueID</key>
+	<string>Fira Mono-BoldItalic</string>
+	<key>openTypeNameCompatibleFullName</key>
+	<string>Fira Mono Bold Italic</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
@@ -82,10 +84,16 @@
 	<array>
 		<integer>158</integer>
 	</array>
+	<key>postscriptFontName</key>
+	<string>Fira Mono-BoldItalic</string>
+	<key>postscriptForceBold</key>
+	<true/>
+	<key>postscriptWeightName</key>
+	<string>Bold</string>
 	<key>styleMapStyleName</key>
-	<string>italic</string>
+	<string>bold italic</string>
 	<key>styleName</key>
-	<string>Italic</string>
+	<string>Bold Italic</string>
 	<key>trademark</key>
 	<string>Fira Mono is a trademark of The Mozilla Corporation.</string>
 	<key>unitsPerEm</key>
