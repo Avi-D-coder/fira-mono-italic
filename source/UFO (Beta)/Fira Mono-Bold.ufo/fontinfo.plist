@@ -33,7 +33,7 @@
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Fira Mono</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular</string>
+	<string>Bold</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>

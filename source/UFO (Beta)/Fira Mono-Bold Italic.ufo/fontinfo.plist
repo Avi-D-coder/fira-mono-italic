@@ -35,7 +35,7 @@
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Fira Mono</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular Italic</string>
+	<string>Bold Italic</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
