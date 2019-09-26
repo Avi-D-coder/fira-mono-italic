@@ -35,11 +35,11 @@
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Fira Mono</string>
 	<key>openTypeNameUniqueID</key>
-	<string>Fira Mono-BoldItalic</string>
+	<string>Fira Mono BoldItalic</string>
 	<key>openTypeNameCompatibleFullName</key>
 	<string>Fira Mono Bold Italic</string>
 	<key>openTypeOS2WeightClass</key>
-	<integer>400</integer>
+	<integer>700</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
