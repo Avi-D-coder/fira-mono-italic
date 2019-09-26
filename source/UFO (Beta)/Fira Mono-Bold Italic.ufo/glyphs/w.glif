@@ -1,36 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="w" format="1">
+<?xml version="1.0"?>
+<glyph name="w" format="2">
   <advance width="600"/>
   <unicode hex="0077"/>
+  <anchor x="339" y="531" name="Anchor-0"/>
   <outline>
-	<contour>
-	  <point x="634" y="531" type="line"/>
-	  <point x="493" y="531" type="line"/>
-	  <point x="402" y="119" type="line"/>
-	  <point x="398" y="119" type="line"/>
-	  <point x="400" y="464" type="line"/>
-	  <point x="266" y="464" type="line"/>
-	  <point x="163" y="117" type="line"/>
-	  <point x="159" y="117" type="line"/>
-	  <point x="186" y="531" type="line"/>
-	  <point x="40" y="531" type="line"/>
-	  <point x="44" y="0" type="line"/>
-	  <point x="217" y="0" type="line"/>
-	  <point x="309" y="338" type="line"/>
-	  <point x="313" y="338" type="line"/>
-	  <point x="309" y="0" type="line"/>
-	  <point x="485" y="0" type="line"/>
-	</contour>
-	<contour>
-	  <point x="374" y="531" type="move" name="top"/>
-	</contour>
+    <contour>
+      <point x="599" y="531" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="278" y="338" type="line"/>
+      <point x="274" y="338" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="9" y="0" type="line"/>
+      <point x="5" y="531" type="line"/>
+      <point x="151" y="531" type="line"/>
+      <point x="124" y="117" type="line"/>
+      <point x="128" y="117" type="line"/>
+      <point x="231" y="464" type="line"/>
+      <point x="365" y="464" type="line"/>
+      <point x="363" y="119" type="line"/>
+      <point x="367" y="119" type="line"/>
+      <point x="458" y="531" type="line"/>
+    </contour>
   </outline>
-  <lib>
-	<dict>
-	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-	  <integer>4</integer>
-	  <key>public.markColor</key>
-	  <string>0.67,0.95,0.38,1</string>
-	</dict>
-  </lib>
 </glyph>
